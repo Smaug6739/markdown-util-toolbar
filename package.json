@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmaugDev/markdown-util-toolbar.git"
+    "url": "git+https://github.com/Smaug6739/markdown-util-toolbar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SmaugDev/markdown-util-toolbar/issues"
+    "url": "https://github.com/Smaug6739/markdown-util-toolbar/issues"
   },
-  "homepage": "https://github.com/SmaugDev/markdown-util-toolbar#readme"
+  "homepage": "https://github.com/Smaug6739/markdown-util-toolbar#readme"
 }
